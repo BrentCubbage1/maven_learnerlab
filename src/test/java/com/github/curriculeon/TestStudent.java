@@ -1,5 +1,6 @@
 package com.github.curriculeon;
 
+import com.github.curriculeon.Interfaces.Learner;
 import org.junit.Assert;
 import org.junit.Test;
 

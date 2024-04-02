@@ -1,6 +1,8 @@
 package com.github.curriculeon;
 
-public class Student extends Person implements Learner{
+import com.github.curriculeon.Interfaces.Learner;
+
+public class Student extends Person implements Learner {
 
     private double totalStudyTime;
 

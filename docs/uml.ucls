@@ -64,7 +64,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <interface id="8" language="java" name="com.github.curriculeon.Learner" project="maven.learnerlab" 
+  <interface id="8" language="java" name="com.github.curriculeon.Interfaces.Learner" project="maven.learnerlab"
     file="/maven.learnerlab/src/main/java/com/github/curriculeon/Learner.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="99" width="157" x="612" y="744"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
